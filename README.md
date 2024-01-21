@@ -4,8 +4,7 @@ Welcome to the coinConverter website repository! This web application allows use
 
 ## Preview
 
-![Website Preview img](images/preview1.png)
-![Website Preview img](images/preview2.png)
+![Website Preview img](preview.png)
 
 ## Features
 
