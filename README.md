@@ -5,7 +5,7 @@ Welcome to the coinConverter website repository! This web application allows use
 ## Preview
 
 ![Website Preview img](preview.png)
-<a href="https://codebyfaisal.github.io/project1" target="_blank">Project Preview</a>
+<a href="https://codebyfaisal.github.io/coinconverter" target="_blank">Project Preview</a>
 
 ## Features
 
